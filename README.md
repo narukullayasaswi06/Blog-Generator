@@ -1,10 +1,10 @@
-# 📝 Blog Generator
+#  Blog Generator
 
 A Blog Generator application that helps users generate well-structured blog posts using AI. The application allows users to enter a topic, choose preferences, and instantly receive a complete blog article.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Generate blogs on any topic
 - Clean and responsive user interface
@@ -16,24 +16,12 @@ A Blog Generator application that helps users generate well-structured blog post
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-(or React.js)
-
-### Backend
-- Python
-- Flask (or Django/FastAPI)
-
 ### AI/API
 - OpenAI API (or Gemini API)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Blog-Generator/
@@ -53,7 +41,7 @@ Blog-Generator/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -89,7 +77,7 @@ python app.py
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 1. Enter a blog topic.
 2. Select the desired options.
@@ -98,19 +86,6 @@ python app.py
 5. Read, copy, or download the generated content.
 
 ---
-
-## 📸 Screenshots
-
-Add screenshots here.
-
-Example:
-
-- Home Page
-- Blog Generation Page
-- Generated Output
-
----
-
 ## 🔮 Future Improvements
 
 - User authentication
